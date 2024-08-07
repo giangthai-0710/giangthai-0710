@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giangthai-0710 or Thai Truong Giang
+- 👋 Hi! I'm Giang, but you can call me Gezell!
 - 👀 I love games and music
 - 🌱 I’m currently learning Unity and JUCE
 - 📫 You can reach me at thaitruonggiang0710@gmail.com
