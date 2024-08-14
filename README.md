@@ -4,25 +4,21 @@
 
 📈 My GitHub stats
 ==================
-
-<p align="center">
-  </br>
-
-  <!-- Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=giangthai-0710&theme=dark&ring=178B76&fire=178B76&currStreakLabel=178B76&card_width=495"/>
-  </a>
-
-</br>
-</br>
-
   <!-- GitHub stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&include_all_commit=true&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B76&theme=dark&card_width=495#gh-dark-mode-only"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&include_all_commit=true&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B76&theme=defaul&card_width=495t#gh-light-mode-only"/>
-  </a>
+<div class="badges-githubstats">
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+      <img src="https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&include_all_commit=true&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B76&theme=dark#gh-dark-mode-only"height=165>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+      <img src="https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&include_all_commit=true&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B76&theme=default#gh-light-mode-only" height=165>
+    </a>
+    <a href="https://git.io/streak-stats#gh-dark-mode-only">
+      <img src="https://streak-stats.demolab.com/?user=giangthai-0710&theme=dark&ring=178B76&fire=178B76&currStreakLabel=178B76" height=165/>
+    </a>
+    <a href="https://git.io/streak-stats#gh-light-mode-only">
+      <img src="https://streak-stats.demolab.com/?user=giangthai-0710&theme=default&ring=178B76&fire=178B76&currStreakLabel=178B76" height=165/>
+    </a>
   
 </br>
 </br>
