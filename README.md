@@ -30,8 +30,7 @@
   
 </br>
 </br>
-
-  <!-- Top languages -->
+<!--
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats-delta-two-35.vercel.app/api/top-langs/?username=giangthai-0710&layout=compact&icon_color=178B76&theme=dark&card_width=495#gh-dark-mode-only"/>
   </a>
@@ -39,6 +38,7 @@
     <img src="https://github-readme-stats-delta-two-35.vercel.app/api/top-langs/?username=giangthai-0710&layout=compact&icon_color=178B76&theme=default&card_width=495#gh-light-mode-only"/>
   </a>
 </p>
+-->
 
 📁 My Projects
 ===============
