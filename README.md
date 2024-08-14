@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Unity and JUCE
 - 📫 You can reach me at thaitruonggiang0710@gmail.com
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=giangthai-0710&theme=dark&ring=178B76&fire=178B76&currStreakLabel=178B76)](https://git.io/streak-stats)
+
 [![Giang's GitHub stats - Dark mode](https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&include_all_commit=true&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B76&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Giang's GitHub stats - Light mode](https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B766&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
