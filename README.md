@@ -30,8 +30,11 @@ As of now, I'm in the process of developing my very own effect plugin collection
 </br>
 
    <!-- Activity Graph -->
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats#gh-dark-mode-only">
     <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=giangthai-0710&border_radius=4.5&hide_title=true&bg_color=151515&color=178B76&line=88C0D0&point=178B76&title_color=178B76"/>
+  </a> 
+  <a href="https://git.io/streak-stats#gh-light-mode-only">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=giangthai-0710&border_radius=4.5&hide_title=true&bg_color=ffffff&color=178B76&line=88C0D0&point=178B76&title_color=178B76"/>
   </a> 
   
 </br>
