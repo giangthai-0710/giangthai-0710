@@ -6,7 +6,7 @@ Hi there! I'm Giang but you can call me Gezell!
 
 I'm an undergraduate student currently based in Vietnam 🇻🇳. Ever since I was little, the world of creative expression has always fascinated me. Whether it was through music, drawing, storytelling, or coming up with game ideas, I was constantly exploring new ways to bring my imagination to life. These creative outlets have always been close to my heart, and I'm now channeling that passion into the world of coding.
 
-As of now, I'm in the process of developing my very own effect plugin collection called GeFX! I've just released the first product in the family: a distortion plugin called GiON. You can read more about my projects [here](#📑-my-projects)
+As of now, I'm in the process of developing my very own effect plugin collection called GeFX! I've just released the first product in the family: a distortion plugin called GiON. You can read more about my projects [here](#-my-projects)
 
 📈 My GitHub stats
 ==================
