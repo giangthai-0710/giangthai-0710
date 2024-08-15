@@ -1,6 +1,12 @@
 👋 Hi, it's Gezell!
 ===================
+![](https://komarev.com/ghpvc/?username=giangthai-0710&color=178B76)
 
+Hi there! I'm Giang but you can call me Gezell!
+
+I'm an undergraduate student currently based in Vietnam 🇻🇳. Ever since I was little, the world of creative expression has always fascinated me. Whether it was through music, drawing, storytelling, or coming up with game ideas, I was constantly exploring new ways to bring my imagination to life. These creative outlets have always been close to my heart, and I'm now channeling that passion into the world of coding.
+
+As of now, I'm in the process of developing my very own effect plugin collection called GeFX! I've just released the first product in the family: a distortion plugin called GiON. You can read more about my projects [here](#📑-my-projects)
 
 📈 My GitHub stats
 ==================
@@ -8,10 +14,10 @@
 <div class="badges-githubstats">
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img src="https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&include_all_commit=true&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B76&theme=dark#gh-dark-mode-only"height=165>
+      <img src="https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&rank_icon=github&include_all_commit=true&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B76&theme=dark#gh-dark-mode-only"height=165>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-      <img src="https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&include_all_commit=true&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B76&theme=default#gh-light-mode-only" height=165>
+      <img src="https://github-readme-stats-delta-two-35.vercel.app/api?username=giangthai-0710&rank_icon=github&include_all_commit=true&hide=issues,contribs&show_icons=true&icon_color=178B76&ring_color=178B76&theme=default#gh-light-mode-only" height=165>
     </a>
     <a href="https://git.io/streak-stats#gh-dark-mode-only">
       <img src="https://streak-stats.demolab.com/?user=giangthai-0710&theme=dark&ring=178B76&fire=178B76&currStreakLabel=178B76" height=165/>
@@ -40,10 +46,10 @@
 </p>
 -->
 
-📁 My Projects
+📑 My Projects
 ===============
 
-🎵 GeFX Collection
+♫ GeFX Collection
 ------------------
 
 <p align="center">
